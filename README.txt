@@ -1,0 +1,1 @@
+Ajoutez ici une image nommée environment.jpg pour le fond de la page d'accueil.
