@@ -1,1 +1,0 @@
-console.log("Site Master DEDD chargé avec succès.");
